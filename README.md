@@ -23,14 +23,14 @@ pip install opencv-python numpy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com//live-video-face-detection.git
-cd live-video-face-detection
+git clone https://github.com/shahbaaz925/Face-Blur/blob/a521397db66eeba846d3dbadaec9a88a29b75286/code.py
+cd Face-Blur
 ```
 
 2. Run the Python script:
 
 ```bash
-python live_video_face_detection.py
+python code.py
 ```
 
 This will start the live video stream with face detection and blurring.
